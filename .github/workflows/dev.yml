@@ -1,6 +1,7 @@
-name:"Dev"
+name: Dev
+
 job:
 run: 
 type: work
  
-  run-on: selfhhosted
+  - run-on: self-hosted
