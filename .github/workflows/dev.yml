@@ -1,0 +1,6 @@
+name:"Dev"
+job:
+run: 
+type: work
+ 
+  run-on: selfhhosted
