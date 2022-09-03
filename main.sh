@@ -1,2 +1,0 @@
-#bash/usr
-index:txt
